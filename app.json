@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/warn/index",
+    "pages/scanReault/index",
+    "pages/billing/index",
+    "pages/my/my",
+    "pages/wallet/index",
+    "pages/charge/charge"
+  ],
+ "window": {
+    "navigationBarBackgroundColor":"#b9dd08",
+    "navigationBarTextStyle":"black",
+    "navigationBarTitleText":"ofo 共享单车",
+    "backgroundColor":"#eeeeee",
+    "backgroundTextStyle":"light",
+    "enablePullDownRefresh":false
+  }
+}
